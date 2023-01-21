@@ -11,7 +11,7 @@
 
 
 ## 🛠 Skills
-Python, MySQL, MongoDB and Flask
+Python, MySQL, MongoDB, Flask, Django, Node.js, Express, Docker and AWS.
 
 
 ## 🔗 Links
