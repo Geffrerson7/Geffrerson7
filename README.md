@@ -22,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Geffrerson7&" alt="Geffrerson7" /></p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gefferson-casasola/)
