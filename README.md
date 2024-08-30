@@ -73,7 +73,7 @@
 
 ## 🌐 Contact with me:
 <p align="center">
-<a href="https://twitter.com/gcasasolah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gcasasolah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gefferson-casasola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gefferson-casasola" height="30" width="40" /></a>
+<a href="https://t.me/gcasasolah" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="gcasasolah"/></a>
+<a href="https://linkedin.com/in/gefferson-casasola" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gefferson-casasola"/></a>
 </p>
 
