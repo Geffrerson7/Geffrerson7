@@ -1,18 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Gefferson Casasola</h1>
-<h3 align="center">A passionate backend developer and graduate of electronic engineering from Peru</h3>
+<h3 align="center">Backend Developer | Electronic Engineering Graduate | From Peru 🇵🇪</h3>
+
+## 👨‍💻 About Me
+
+I am a **Junior Backend Developer** with a strong focus on building scalable, efficient, and secure web applications. I enjoy working with modern backend technologies, designing RESTful APIs, and collaborating in agile teams to deliver high-quality software solutions.
 
 - 📫 How to reach me **gefferson.casasola@gmail.com**
 - ⚡ Fun fact **I like calisthenics**
 
-## 🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Geffrerson7" alt="Geffrerson7" /></a> </p>
-
-
 ## 💻 Languages and Tools:
 <table align="center"><tr><td valign="top" width="25%" align="center">
-
-
 
 ### Languagues  
 <div align="center">  
@@ -29,6 +26,7 @@
   <p><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a></p>
   <p><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> </a></p>
   <p><a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> </a> </p>
+  <p><a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </a> </p>
 </div>
 
   
@@ -70,6 +68,8 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Geffrerson7&" alt="Geffrerson7" /></p>
 
+## 🏆 GitHub Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Geffrerson7" alt="Geffrerson7" /></a> </p>
 
 ## 🌐 Contact with me:
 <p align="center">
