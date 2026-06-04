@@ -66,11 +66,6 @@ I am a **Junior Backend Developer** with a strong focus on building scalable, ef
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Geffrerson7&show_icons=true&locale=en" alt="Geffrerson7" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Geffrerson7&" alt="Geffrerson7" /></p>
-
-## 🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Geffrerson7" alt="Geffrerson7" /></a> </p>
-
 ## 🌐 Contact with me:
 <p align="center">
 <a href="https://t.me/gcasasolah" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="gcasasolah"/></a>
