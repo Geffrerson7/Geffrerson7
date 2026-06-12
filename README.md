@@ -3,22 +3,8 @@
 
 ## 👨‍💻 About Me
 
-I am a **Junior Backend Developer** with a strong focus on building scalable, efficient, and secure web applications. I enjoy working with modern backend technologies, designing RESTful APIs, and collaborating in agile teams to deliver high-quality software solutions.
-
-- 📫 How to reach me **gefferson.casasola@gmail.com**
-- ⚡ Fun fact **I like calisthenics**
-  
-### Cloud
-<div align="center" style="padding:15px">  
-  <p><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> </a></p>
-  <p><a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> </a></p>
-  <p><a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
-  <p><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></p>
-</div>
-  
-</td></tr></table>  
-
-
+Hello, I'm Gefferson Casasola, an Electronics Engineer with experience building REST APIs, automating processes, and integrating external services using Python, Django REST Framework, FastAPI, and cloud technologies. I have contributed to the development of web platforms across different industries, working with PostgreSQL, Redis, Celery, Docker, and AWS to deliver robust, maintainable, and business-oriented solutions.
+In addition, I have experience in workflow automation, data processing, and integrating AI-powered tools through the OpenAI API and LangChain. I complement my backend expertise with knowledge of React and Next.js, allowing me to collaborate effectively within Full Stack teams whenever the project requires it.
 
 ## 📊 GitHub Stats:
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Geffrerson7&show_icons=true&locale=en&layout=compact" alt="Geffrerson7" /></p>
