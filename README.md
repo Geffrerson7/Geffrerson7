@@ -13,7 +13,6 @@ In addition, I have experience in workflow automation, data processing, and inte
 
 ## 🌐 Contact with me:
 <p align="center">
-<a href="https://t.me/gcasasolah" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="gcasasolah"/></a>
 <a href="https://linkedin.com/in/gefferson-casasola" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gefferson-casasola"/></a>
 </p>
 
